@@ -14,16 +14,16 @@ Website Sale Product Pack
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fproduct--pack-lightgray.png?logo=github
-    :target: https://github.com/OCA/product-pack/tree/13.0/website_sale_product_pack
+    :target: https://github.com/OCA/product-pack/tree/14.0/website_sale_product_pack
     :alt: OCA/product-pack
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/product-pack-13-0/product-pack-13-0-website_sale_product_pack
+    :target: https://translation.odoo-community.org/projects/product-pack-14-0/product-pack-14-0-website_sale_product_pack
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/286/13.0
+    :target: https://runbot.odoo-community.org/runbot/286/14.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module introduces compatibility of product packs with e-commerce:
 
@@ -92,6 +92,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/product-pack <https://github.com/OCA/product-pack/tree/13.0/website_sale_product_pack>`_ project on GitHub.
+This module is part of the `OCA/product-pack <https://github.com/OCA/product-pack/tree/14.0/website_sale_product_pack>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

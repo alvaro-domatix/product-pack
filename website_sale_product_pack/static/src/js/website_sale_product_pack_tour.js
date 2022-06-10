@@ -3,7 +3,7 @@
 
 odoo.define(
     "website_sale_product_pack.tour_create_components_price_order_line",
-    function(require) {
+    function (require) {
         "use strict";
 
         var tour = require("web_tour.tour");
@@ -34,7 +34,7 @@ odoo.define(
     }
 );
 
-odoo.define("website_sale_product_pack.tour_create_ignored_price_order_line", function(
+odoo.define("website_sale_product_pack.tour_create_ignored_price_order_line", function (
     require
 ) {
     "use strict";
@@ -67,7 +67,7 @@ odoo.define("website_sale_product_pack.tour_create_ignored_price_order_line", fu
 
 odoo.define(
     "website_sale_product_pack.tour_create_totalized_price_order_line",
-    function(require) {
+    function (require) {
         "use strict";
 
         var tour = require("web_tour.tour");
@@ -100,7 +100,7 @@ odoo.define(
 
 odoo.define(
     "website_sale_product_pack.tour_create_non_detailed_price_order_line",
-    function(require) {
+    function (require) {
         "use strict";
 
         var tour = require("web_tour.tour");
@@ -130,7 +130,7 @@ odoo.define(
     }
 );
 
-odoo.define("website_sale_product_pack.tour_update_pack_qty", function(require) {
+odoo.define("website_sale_product_pack.tour_update_pack_qty", function (require) {
     "use strict";
 
     var tour = require("web_tour.tour");
